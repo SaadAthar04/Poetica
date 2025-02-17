@@ -1,6 +1,3 @@
-os
-torch
-numpy
-torch.nn
-streamlit
-PIL
+torch==2.1.0
+numpy==1.24.3
+streamlit==1.18.0
