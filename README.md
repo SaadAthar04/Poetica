@@ -58,8 +58,8 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 ## **📩 Connect With Me**  
-👤 **Nelayn Abbas**  
-🌐 [GitHub Profile](https://github.com/NelaynAbbas)  
+👤 **Saad Athar**  
+🌐 [GitHub Profile](https://github.com/SaadAthar04)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
 
